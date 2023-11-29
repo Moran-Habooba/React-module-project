@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/--React-module-project/static/css/main.f35ad0d9.css",
-    "main.js": "/--React-module-project/static/js/main.d7471c0d.js",
-    "static/js/787.1d3d156d.chunk.js": "/--React-module-project/static/js/787.1d3d156d.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/--React-module-project/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
-    "static/media/bootstrap-icons.woff2?": "/--React-module-project/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
-    "index.html": "/--React-module-project/index.html",
-    "main.f35ad0d9.css.map": "/--React-module-project/static/css/main.f35ad0d9.css.map",
-    "main.d7471c0d.js.map": "/--React-module-project/static/js/main.d7471c0d.js.map",
-    "787.1d3d156d.chunk.js.map": "/--React-module-project/static/js/787.1d3d156d.chunk.js.map"
+    "main.css": "/React-module-project/static/css/main.c0d7eb5f.css",
+    "main.js": "/React-module-project/static/js/main.97eb147d.js",
+    "static/js/787.1d3d156d.chunk.js": "/React-module-project/static/js/787.1d3d156d.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/React-module-project/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
+    "static/media/bootstrap-icons.woff2?": "/React-module-project/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
+    "index.html": "/React-module-project/index.html",
+    "main.c0d7eb5f.css.map": "/React-module-project/static/css/main.c0d7eb5f.css.map",
+    "main.97eb147d.js.map": "/React-module-project/static/js/main.97eb147d.js.map",
+    "787.1d3d156d.chunk.js.map": "/React-module-project/static/js/787.1d3d156d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f35ad0d9.css",
-    "static/js/main.d7471c0d.js"
+    "static/css/main.c0d7eb5f.css",
+    "static/js/main.97eb147d.js"
   ]
 }
